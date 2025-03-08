@@ -6,6 +6,7 @@ import TestimonialsSection from "./TestimonialsSection";
 export default function HomePage() {
   return (
     <div className="bg-background">
+      <p>hi</p>
       <HeroSection />
       <FeaturesSection />
       <SalonCTA />
